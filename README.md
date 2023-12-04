@@ -57,17 +57,15 @@ Se define la tasa de homicidios en siniestros viales como el número de víctima
 
 
 ## Fuente de datos:
-- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): deberán utilizar el dataset denominado `Homicidios`
+- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): dataset principal `Homicidios`
 - [Notas para el uso del dataset de homicidios de siniestros viales de la CABA](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
 
 **Complementarios:**
-- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): pueden usar el dataset de `Lesiones`
+- [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): datos complementarios `Lesiones`
 - Se hizo uso del WebScrapping para obtener informacion adicional para complementar el analisis:
 - [superficie_Comunas]https://es.wikipedia.org/wiki/Comunas_de_la_ciudad_de_Buenos_Aires
 
-## Material de apoyo
-- [Notas para el uso del dataset de homicidios de siniestros viales de la CABA](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
-- [Observatorio de Movilidad y Seguridad Vial de la Ciudad Autónoma de Buenos Aires](https://buenosaires.gob.ar/observatorio-de-movilidad-y-seguridad-vial)
+
 
 
 
