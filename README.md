@@ -6,7 +6,8 @@ Proyecto realizado para responder y dar posibles soluciones de siniestros viales
 ### **El Rol a representar es el de un Data Science**
 
 El analista deberá trabajar con los datos proporcionados por [Datos oficiales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
-Realizará el correspondiente ETL con su respectivo EDA para, posteriormente, utilizar alguna herramienta visual con el fin de generar un dashboard que presente las métricas correspondientes del análisis exploratorio de datos. Este proceso permitirá llevar a cabo la correspondiente presentación y conclusión del trabajo, incluyendo las posibles soluciones que se deberán tomar para disminuir los siniestros viales en las comunas de la Ciudad Autónoma de Buenos Aires.
+Realizará el correspondiente ETL con su respectivo EDA para, 
+Utilizar alguna herramienta visual donde se generara un dashboard que presente las graficas del análisis. Esto facilitará llevar a cabo la presentación y conclusión del trabajo, e incluir las posibles soluciones para disminuir los siniestros viales en las comunas de la Ciudad Autónoma de Buenos Aires.
 
 **Notebooks donde se realizaron las tareas de limpieza extraccion y carga de los datos**
 
