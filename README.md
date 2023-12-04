@@ -15,7 +15,7 @@ Notebooks[EDA.ipynb]
 
 Notebooks[ETL.ipynb]
 
-**Con la herramienta grafica Power BI se genera un [Dashboard: PI_02_Siniestros_Viales_CABA]**
+**Con la herramienta grafica Power BI se genera un** [Dashboard]PI_02_Siniestros_Viales_CABA
 
 Donde se realizan las metricas e items propuestos con sus respectivas graficas para la presentacion en un panel interactivo.
 El dasbhoard incluye **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos, facilitando la interpretación de la información y su análisis. 
