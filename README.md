@@ -66,6 +66,13 @@ Se define la tasa de homicidios en siniestros viales como el número de víctima
 - [superficie_Comunas]https://es.wikipedia.org/wiki/Comunas_de_la_ciudad_de_Buenos_Aires
 
 
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
+![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=matplotlib)
+![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=seaborn)
+
 
 
 
