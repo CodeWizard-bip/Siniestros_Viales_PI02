@@ -29,7 +29,7 @@ Grafica y medicion de los 2 KPIs propuestos:
 
 **"Tomando los datos del censo de CABA del año 2022 de https://www.argentina.gob.ar/caba."**
 
--"De los 6 años para los cuales se disponen de datos, se puede observar que solo en 2 años y medio se alcanzó el KPI, siendo el año 2020 el de mayor reducción de siniestros. No obstante, se puede atribuir esta disminución más a la pandemia por COVID que a mejoras en las condiciones viales."
+- "De los 6 años para los cuales se disponen de datos, se puede observar que solo en 2 años y medio se alcanzó el KPI, siendo el año 2020 el de mayor reducción de siniestros. No obstante, se puede atribuir esta disminución más a la pandemia por COVID que a mejoras en las condiciones viales."
   
 - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
   
@@ -43,7 +43,7 @@ Grafica y medicion de los 2 KPIs propuestos:
 Se define la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área durante un período de tiempo específico. La fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
 
- - Tomando los datos de las comunas de: https://www.estadisticaciudad.gob.ar/eyc/?p=1601, que indica cantidad de habitantes en la comuna n°1 es de 205886 personas se defina el tercer KPI.
+ - Tomando los datos de las comunas de: https://www.estadisticaciudad.gob.ar/eyc/?p=1601, que indica cantidad de habitantes en la comuna n°1 es de 205886 personas se define el tercer KPI.
 
 
 
