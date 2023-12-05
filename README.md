@@ -63,7 +63,7 @@ Se define la tasa de homicidios en siniestros viales como el número de víctima
 
 **Complementarios:**
 - [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): datos complementarios `Lesiones`
-- Se hizo uso del WebScrapping para obtener informacion adicional para complementar el analisis:
+- Se hizo uso de WebScrapping para obtener informacion adicional para complementar el analisis:
 - [superficie_Comunas]https://es.wikipedia.org/wiki/Comunas_de_la_ciudad_de_Buenos_Aires
 
 
