@@ -29,6 +29,25 @@ El dasbhoard incluye **filtros**, permitiendo explorar detalladamente los datos 
   <img src="imagenes/edad_con_mayor_mortalidad.PNG" alt="Descripción de la imagen"/>
 </p>
 
+**Este gráfico proporciona una visión clara de cómo se distribuye el número total de víctimas por día de la semana.**
+
+- Un histograma que muestra el número total de víctimas para cada día de la semana. 
+
+<p align="center">
+  <img src="imagenes/dias_mayor_cantidad_siniestros.PNG" alt="Descripción de la imagen"/>
+</p>
+
+**La tabla proporciona una visión clara del numero de victimas por comuna de la ciudad.**
+
+- Muestra la comuna que tiene la mayor cantidad de víctimas.
+
+<p align="center">
+  <img src="imagenes/comuna_con_mayores_siniestros.PNG" alt="Descripción de la imagen"/>
+</p>
+
+
+
+
 **Los `KPIs` solicitados y realizados son los siguientes**
 
 Grafica y medicion de los 2 KPIs propuestos:
