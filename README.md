@@ -20,6 +20,13 @@ Notebooks[ETL.ipynb]
 Donde se realizan las metricas e items propuestos con sus respectivas graficas para la presentacion en un panel interactivo.
 El dasbhoard incluye **filtros**, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos, facilitando la interpretación de la información y su análisis. 
 
+### Graficas relevantes
+
+**Este gráfico proporciona una visión clara de cómo se distribuye el número de víctimas por rango de edad.**
+- El rango de edad de 40-59, con 323 víctimas, lo que indica que este rango de edad tiene el mayor número de víctimas.
+
+![Mapa de Calor](imagenes/edad_con_mayor_mortalidad.PNG)
+
 **Los `KPIs` solicitados y realizados son los siguientes**
 
 Grafica y medicion de los 2 KPIs propuestos:
