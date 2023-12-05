@@ -23,9 +23,11 @@ El dasbhoard incluye **filtros**, permitiendo explorar detalladamente los datos 
 ### Graficas relevantes
 
 **Este gráfico proporciona una visión clara de cómo se distribuye el número de víctimas por rango de edad.**
-- El rango de edad de 40-59, con 323 víctimas, lo que indica que este rango de edad tiene el mayor número de víctimas.
+- El rango de edad de 40-59, con 323 víctimas, lo que indica que este rango de edad tiene la mayor propension de sufrir un siniestro.
 
-![Mapa de Calor](imagenes/edad_con_mayor_mortalidad.PNG)
+<p align="center">
+  <img src="imagenes/edad_con_mayor_mortalidad.PNG" alt="Descripción de la imagen"/>
+</p>
 
 **Los `KPIs` solicitados y realizados son los siguientes**
 
